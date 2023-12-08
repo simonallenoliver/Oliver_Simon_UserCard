@@ -1,0 +1,77 @@
+/* CSS reset */
+*{
+    margin:0px;
+    padding:0px;
+    font-family: sans-serif;
+}
+
+.col1{
+    background-color: white;
+    width: 800px;
+    margin: 10px;
+    margin-left: 25px;
+    padding: 0px;
+    
+}
+
+.profilebox{
+    background-color: grey;
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 1px;
+    
+
+.box1{
+    background-color:rgb(98, 137, 210);
+    margin: 0px;
+    margin-top: 0;
+    padding: 0px;
+    margin-bottom: 0;
+}
+
+.box2{
+    background-color:white;
+    margin: 3px;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-weight: 500;
+    font-size: larger;
+}
+
+#janepic{
+    width: 180px;
+    border-radius: 89px;
+    position: relative;
+    top: 77px;
+    left: 30px
+}
+
+#jane{
+    font-weight: 600;
+    font-size: 45pt;
+    color: black;
+    padding-top: 40px;
+}
+#seattle{
+    font-weight: 400;
+    font-size: 40pt;
+    color: black; 
+    padding-bottom: 10px;
+}
+
+#map{
+    width:20px;
+    margin-right: 5px;
+}
+
+#editprofile{
+    padding-top: 20px;
+    font-size: 14pt;
+}
+
+}
+
+}
